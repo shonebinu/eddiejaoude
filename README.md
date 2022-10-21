@@ -1,4 +1,4 @@
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a>
+<a href="http://eddiejaoude.io" target="_blank"><img src="[https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif](https://twitter.com/eddiejaoude/header_photo)" /></a>
 
 <p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
